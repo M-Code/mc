@@ -41,6 +41,7 @@
 		47158C8D19A5766600C3230A = {
 			isa = PBXGroup;
 			children = (
+				47158CA519A578B100C3230A /* Header */,
 				47158CA219A5766F00C3230A /* Source */,
 				47158C9719A5766600C3230A /* Products */,
 			);
@@ -62,6 +63,13 @@
 			name = Source;
 			path = src;
 			sourceTree = SOURCE_ROOT;
+		};
+		47158CA519A578B100C3230A /* Header */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Header;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
