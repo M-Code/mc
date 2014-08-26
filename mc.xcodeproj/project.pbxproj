@@ -53,6 +53,7 @@
 				47158C9619A5766600C3230A /* mc */,
 			);
 			name = Products;
+			path = bin;
 			sourceTree = "<group>";
 		};
 		47158CA219A5766F00C3230A /* Source */ = {
@@ -202,6 +203,7 @@
 		47158CA019A5766600C3230A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEPLOYMENT_LOCATION = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -209,6 +211,7 @@
 		47158CA119A5766600C3230A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEPLOYMENT_LOCATION = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

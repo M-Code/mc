@@ -59,7 +59,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "testfile.m"
+            argument = "-s /Users/nongnongd/Desktop/testfile.m"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
